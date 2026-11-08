@@ -6,4 +6,3 @@ Soy estudiante de Ingeniería de Sistemas. Desarrollo aplicaciones Android con K
 
 - **[KashuApp](https://github.com/JJay1704/KashuApp)** · Aplicación Android de gestión de finanzas personales, desarrollada como proyecto del curso de desarrollo móvil. El repositorio reúne el código en Kotlin y la documentación del proyecto.
 - **[Ferretería](https://github.com/JJay1704/DiseArq-Ferreteria)** · Proyecto web en C# con ASP.NET Core MVC. El código está organizado en controladores, modelos y vistas, con migraciones para la base de datos.
-- **[CRUD con Jetpack Compose](https://github.com/JJay1704/Ejercicio-Pr-ctico-Implementaci-n-de-CRUD-con-Jetpack-Compose-y-MockAPI-_-Jose-Munoz)** · Práctica de desarrollo Android que integra operaciones de creación, consulta, edición y eliminación con MockAPI.
