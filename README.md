@@ -1,4 +1,4 @@
-![José Muñoz · Desarrollo Android y web](assets/portfolio-banner.svg)
+![José Muñoz · Desarrollo Software](assets/portfolio-banner.svg)
 
 Soy estudiante de Ingeniería de Sistemas y busco prácticas en desarrollo de software. Trabajo con **Kotlin y Jetpack Compose** para Android y con **C# y ASP.NET Core MVC** para web.
 
